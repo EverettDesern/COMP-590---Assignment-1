@@ -1,0 +1,16 @@
+Calculations for part 3:
+
+
+
+	3. The value is 4.5323361762439625
+		- calculations are in my Encoder class between lines 129 - 136
+
+	4. The value is 4.636420867375511
+		- calculations are in my Encoder class between lines 139 - 142
+
+	6. The value is 4.573562402829805
+		- calculations are in my Encoder class between lines 145 - 148
+	
+	7. My encoder achieves better compression because the calculated entropy value
+	   is closer to the theoretical entropy value. The closer to the theoretical
+	   value, the better!
